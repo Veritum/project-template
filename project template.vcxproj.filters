@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{c5531532-73bd-493a-94f6-dd9b86cfeb54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{e3e29271-88f5-4233-abe7-1ad0876b1c10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\scripts">
+      <UniqueIdentifier>{b94a039f-2ad6-4db1-908a-729fb904cd42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{a02519af-e73c-4ee4-874e-6b5199106d8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\core">
+      <UniqueIdentifier>{7ab65f48-a244-4f14-9148-609f76ea2488}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\gfx">
+      <UniqueIdentifier>{f962244b-1ec2-4c25-a7f0-2e0ae04e0da7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gfx">
+      <UniqueIdentifier>{500969cc-e613-417e-ad07-e2b72410c366}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\gfx\image">
+      <UniqueIdentifier>{cec217d8-7e15-43b5-ae48-2b821319bdff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\gfx\shader">
+      <UniqueIdentifier>{82ff1e3c-db60-4885-abd0-56d743d67c60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\gfx\rend">
+      <UniqueIdentifier>{a862285a-485c-43a6-92f6-8f4c10a4aa6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gfx\image">
+      <UniqueIdentifier>{1e57a1ce-bcc8-4569-abff-1a448fc2a4f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gfx\rend">
+      <UniqueIdentifier>{80202971-7d34-4f55-8573-907748ef1e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gfx\shader">
+      <UniqueIdentifier>{6ffe5ada-4b18-42f8-a8f6-a9f566b0231f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ent">
+      <UniqueIdentifier>{308650c2-a3af-4538-a5b5-e14d8cf9ef6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\ent">
+      <UniqueIdentifier>{b55079cf-2292-41c4-aece-9e5c5c7c4f33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ent\bosses">
+      <UniqueIdentifier>{624cb2b4-c526-49dd-aa87-92339b830564}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\ent\bosses">
+      <UniqueIdentifier>{6e844d3d-9400-43c2-bcfb-88cc6a9a6f10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\ent\ply">
+      <UniqueIdentifier>{88e35cf0-58ec-4f95-8dcb-57e1f8257f85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ent\ply">
+      <UniqueIdentifier>{aa64295b-465d-4493-9a8e-55db12590873}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\ent\enemies">
+      <UniqueIdentifier>{1b21b4d2-58a8-4196-9703-7ab9106ea7f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\ent\npcs">
+      <UniqueIdentifier>{0c98d2c6-8317-4b96-9f92-f926d128c408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\ent\misc">
+      <UniqueIdentifier>{e7bfaeb2-ccd8-4b91-91a5-b0c9863f2fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ent\misc">
+      <UniqueIdentifier>{a4651d57-0779-40c5-a456-1be45ea413f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ent\npcs">
+      <UniqueIdentifier>{fd0cb86b-54ae-48b0-9c27-c6652497719e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ent\enemies">
+      <UniqueIdentifier>{d1eae2c8-173a-4d11-a449-fc55314bdbc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio">
+      <UniqueIdentifier>{de60d8cb-bb95-4a90-bb3e-c98a8eebbb94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\level">
+      <UniqueIdentifier>{cf723ba5-7334-4bbf-8ade-4fececeb5481}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\debug">
+      <UniqueIdentifier>{0f65edfd-18fb-4bd4-a3de-3587e0ead83e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\audio">
+      <UniqueIdentifier>{0a29e624-f069-47c9-bd38-68ed9007843c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\debug">
+      <UniqueIdentifier>{d386743e-c9ed-4292-b9ba-19cd405ae9ab}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="libenet.dylib" />
+    <None Include="ENetX86.dll" />
+    <None Include="ENetX64.dll" />
+  </ItemGroup>
+</Project>
